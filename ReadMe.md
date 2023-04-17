@@ -99,5 +99,5 @@ After the data has been collected, the next thing is to Assessing and cleaning i
 ## Conclusion
 <ul>
 
-Presentation of the conclusion in this [link](#https://github.com/Amal-Saber/Out-of-school_Analysis/blob/master/Aalysis_Conclusion.pptx)
+Presentation of the conclusion in this [link](https://github.com/Amal-Saber/Out-of-school_Analysis/blob/master/Aalysis_Conclusion.pptx)
 </ul>
